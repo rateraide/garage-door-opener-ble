@@ -414,8 +414,8 @@ class GOOpenerController: UIViewController {
 
     
     func getConnectionBar(_ strength: Int) -> String {
-        let s : String = "\u{25A1}"
-        let b : String = "\u{25A0}"
+        let s : String = "•"
+        let b : String = " "
         
         var result : String = ""
         for i in 0 ..< 5 {
