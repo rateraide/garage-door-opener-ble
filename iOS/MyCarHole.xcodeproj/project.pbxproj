@@ -152,7 +152,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 920E5EB41A615EAC00B0E5E3 /* Build configuration list for PBXProject "GarageOpener" */;
+			buildConfigurationList = 920E5EB41A615EAC00B0E5E3 /* Build configuration list for PBXProject "MyCarHole" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -354,7 +354,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		920E5EB41A615EAC00B0E5E3 /* Build configuration list for PBXProject "GarageOpener" */ = {
+		920E5EB41A615EAC00B0E5E3 /* Build configuration list for PBXProject "MyCarHole" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				920E5ED61A615EAC00B0E5E3 /* Debug */,
